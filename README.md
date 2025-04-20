@@ -1,1 +1,1 @@
-# gdgwow-MPC-handsonexp
+# gdgwow-MCP-handsonexp
